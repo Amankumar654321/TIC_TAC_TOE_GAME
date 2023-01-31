@@ -1,0 +1,60 @@
+  /* CSS Code */
+    /* Heading */
+    h1 {
+        color: rgb(0, 13, 255);
+        font-size: 45px;
+    }
+ 
+    /* 3*3 Grid */
+    #i1, #i2, #i3, #i4, #i5,
+    #i6, #i7, #i8, #i9 {
+        width: 80px;
+        height: 52px;
+        margin: auto;
+        border: 1px solid gray;
+        border-radius: 6px;
+        font-size: 30px;
+        text-align: center;
+    }
+ 
+   
+    #but {
+        box-sizing: border-box;
+        width: 95px;
+        height: 40px;
+        border: 1px solid rgb(77, 108, 139);
+        margin: auto;
+        border-radius: 4px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: rgb(117, 152, 187);
+        color: white;
+        font-size: 20px;
+        cursor: pointer;
+    }
+ 
+   
+    #print {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(74, 92, 182);
+        font-size: 20px;
+    }
+ 
+    
+    #main {
+        text-align: center;
+       
+        height: 650px;
+        width: 25%;
+        margin: auto;
+        background-color: antiquewhite;
+        border-radius: 10px;
+        padding: 10px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+ 
+ 
+    #ins {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(215, 23, 23);
+        font-size: 17px;
+    }
